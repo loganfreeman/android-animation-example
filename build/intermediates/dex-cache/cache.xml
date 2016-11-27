@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/scheng/Downloads/Rocket-Launch-Starter_local/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/scheng/Downloads/Rocket-Launch-Starter_local/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.1.1_0404e29630854522eb710d55731efe834289e570/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/scheng/Downloads/Rocket-Launch-Starter_local/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/scheng/Downloads/Rocket-Launch-Starter_local/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.1.1_f85e6a397737d509c2c891daa898cf441f883328/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/scheng/Downloads/Rocket-Launch-Starter_local/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/Users/scheng/Downloads/Rocket-Launch-Starter_local/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.1.1_98276d816937086921a91719e6546b28cd3fb5c5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/scheng/Downloads/Rocket-Launch-Starter_local/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="28df40bfe74d8e3e40e15860a72bd488b5a458f8">
+        <dex dex="/Users/scheng/Downloads/Rocket-Launch-Starter_local/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_9f084d98cee4d9ce446b2748d9c5adb134e290f9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/scheng/Downloads/Rocket-Launch-Starter_local/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2ae2a39c087e0c758b15737374dca48a9cae01cc">
+        <dex dex="/Users/scheng/Downloads/Rocket-Launch-Starter_local/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_325bcbe3ab5780e78874ff0feea20e5b5ac0c298/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/scheng/Downloads/Rocket-Launch-Starter_local/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/scheng/Downloads/Rocket-Launch-Starter_local/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.1.1_4983afcbc668a7d5e0f898374ea5b3253b60f736/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/scheng/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/scheng/Downloads/Rocket-Launch-Starter_local/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.1.1_3ecdf7cbd89c01b6fccf5bf390f68e40a0aadfdc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/scheng/Downloads/Rocket-Launch-Starter_local/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/Users/scheng/Downloads/Rocket-Launch-Starter_local/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.1.1_2d0681a64d8461864f3b2c480f2c5c8635b71930/classes.dex" />
+    </item>
+
+</items>
